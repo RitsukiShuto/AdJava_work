@@ -3,8 +3,8 @@
 //
 class sample4c {
     public static void main(String[] s){
-//        Robot4 rb = new Robot4();
-//        SuperRobot4 srb = new SuperRobot4();
+        Robot4 rb = new Robot4();
+        SuperRobot4 srb = new SuperRobot4();
         UltraSuperRobot4 usrb = new UltraSuperRobot4();
 
         usrb.jump();
