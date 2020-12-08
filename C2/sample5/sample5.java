@@ -6,8 +6,10 @@ class sample5{
         int n;
 
         n = Count5.count;           System.out.println(n);
+
         Count5 c1 = new Count5();   System.out.println(c1.count);
         n = Count5.count;           System.out.println(n);
+        
         Count5 c2 = new Count5();   System.out.println(c2.count);
         n = Count5.count;           System.out.println(n);
     }
